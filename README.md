@@ -4,5 +4,8 @@ Dataset dari program ini di buat dengan menggunakan `roboflow`. gambar di unduh 
 
 dataset ini kemudina di lakukan beberapa `preprocessing` seperti orientasi dan resize gambar, kemudian di lakukan juga augmentasi flip `horizontal` dan `vertical`, dataset juga di split menjadi val, train dam test.
 dataset bisa di unduh pada [link berikut](https://app.roboflow.com/novilm/frog_dataset-7aual)
+
 <img width="1103" height="800" alt="Screenshot 2025-08-29 110457" src="https://github.com/user-attachments/assets/6d28195b-f1d4-4510-9fcb-a1be73078fef" />
 
+---
+hasil inference model bisa di lihat pada [link berikut](https://drive.google.com/file/d/11Ov-zeQoLO73ZiDjvkRdOLhkWGOHfmS0/view?usp=sharing)
